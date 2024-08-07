@@ -1,0 +1,33 @@
+[submodule "bib"]
+	path = bib
+	url = https://github.com/brandongrahamcobb/bib
+[submodule "html"]
+	path = html
+	url = https://github.com/brandongrahamcobb/html
+[submodule "java"]
+	path = java
+	url = https://github.com/brandongrahamcobb/java
+[submodule "js"]
+	path = js
+	url = https://github.com/brandongrahamcobb/js
+[submodule "md"]
+	path = md
+	url = https://github.com/brandongrahamcobb/md
+[submodule "ps1"]
+	path = ps1
+	url = https://github.com/brandongrahamcobb/ps1
+[submodule "py"]
+	path = py
+	url = https://github.com/brandongrahamcobb/py
+[submodule "sh"]
+	path = sh
+	url = https://github.com/brandongrahamcobb/sh
+[submodule "tex"]
+	path = tex
+	url = https://github.com/brandongrahamcobb/tex
+[submodule "txt"]
+	path = txt
+	url = https://github.com/brandongrahamcobb/txt
+[submodule "zip"]
+	path = zip
+	url = https://github.com/brandongrahamcobb/zip
