@@ -28,6 +28,3 @@
 [submodule "txt"]
 	path = txt
 	url = https://github.com/brandongrahamcobb/txt
-[submodule "zip"]
-	path = zip
-	url = https://github.com/brandongrahamcobb/zip
