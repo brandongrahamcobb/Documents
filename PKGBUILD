@@ -1,6 +1,6 @@
 # Maintainer: Brandon Graham Cobb <brandongrahamcobb@ic>
 pkgname=lucy
-pkgver=070824
+pkgver=120824
 pkgrel=1
 pkgdesc="A Discord bot using discord.py"
 arch=('any')
