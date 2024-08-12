@@ -28,3 +28,6 @@
 [submodule "txt"]
 	path = txt
 	url = https://github.com/brandongrahamcobb/txt
+[submodule "bat"]
+	path = bat
+	url = https://github.com/brandongrahamcobb/bat.git
