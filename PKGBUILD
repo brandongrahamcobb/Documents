@@ -1,6 +1,6 @@
 # Maintainer: Brandon Graham Cobb <brandongrahamcobb@icloud.com>
 pkgname=lucy
-pkgver=260824
+pkgver=010924
 pkgrel=1
 pkgdesc="A Discord bot using discord.py"
 arch=('x86_64')
@@ -8,7 +8,7 @@ url="https://github.com/brandongrahamcobb/Documents"
 license=('GPL')
 depends=('python')
 source=("CobbBrandonGraham_${pkgname}_${pkgver}.tar.gz")
-sha256sums=('936abf6c9be822ae1945dd1a7fff37738a712731d1d99ce10edea40d49cdb139')
+sha256sums=('SKIP')
 
 prepare() {
     tar -xzf "CobbBrandonGraham_${pkgname}_${pkgver}.tar.gz"
