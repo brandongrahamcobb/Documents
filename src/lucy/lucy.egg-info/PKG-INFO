@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: lucy
+Version: 230824
+License-File: LICENSE
+Requires-Dist: bs4
+Requires-Dist: discord.py
+Requires-Dist: emoji
+Requires-Dist: google-api-python-client
+Requires-Dist: googletrans==4.0.0-rc1
+Requires-Dist: pip
+Requires-Dist: pubchempy
+Requires-Dist: pillow
+Requires-Dist: requests
+Requires-Dist: rdkit
+Requires-Dist: selenium
+Requires-Dist: webdriver_manager

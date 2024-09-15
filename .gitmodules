@@ -13,9 +13,6 @@
 [submodule "md"]
 	path = md
 	url = https://github.com/brandongrahamcobb/md
-[submodule "ps1"]
-	path = ps1
-	url = https://github.com/brandongrahamcobb/ps1
 [submodule "py"]
 	path = py
 	url = https://github.com/brandongrahamcobb/py
@@ -28,6 +25,3 @@
 [submodule "txt"]
 	path = txt
 	url = https://github.com/brandongrahamcobb/txt
-[submodule "bat"]
-	path = bat
-	url = https://github.com/brandongrahamcobb/bat.git

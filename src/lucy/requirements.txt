@@ -1,0 +1,11 @@
+discord.py
+emoji
+gradle_client
+pip
+pubchempy
+pillow
+pyyaml
+requests
+rdkit
+selenium
+webdriver_manager
